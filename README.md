@@ -2,9 +2,9 @@
 ## Creating the base of a project with nodejs and typescript
 
 # Technologies
-Nodejs <br/>
-tsx <br/>
-tsup <br/>
+Nodejs <br>
+tsx <br>
+tsup <br>
 typescript
 
 # How to use
